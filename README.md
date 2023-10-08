@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J-U-S-T-P-A-I-N
-- 👀 I’m interested in game development via unity
-- 🌱 I’m currently learning unity 2d
+- 👀 I’m doing game development via unity
+- 🌱 I’m currently developing games as well as learning new things
 - 💞️ I’m looking to collaborate on any idea 
 - 📫you can reach me via mail i.e muhammadkhan999@icloud.com
 
